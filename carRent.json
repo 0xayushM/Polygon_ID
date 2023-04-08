@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/carRent.jsonld",
-        "jsonSchema": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/carRent.json"
+        "jsonLdContext": "https://raw.githubusercontent.com/0xayushM/Polygon_ID/main/carRent.jsonld",
+        "jsonSchema": "https://raw.githubusercontent.com/0xayushM/Polygon_ID/main/carRent.json"
       }
     },
     "required": [
