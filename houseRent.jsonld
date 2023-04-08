@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "MonthlycarRent": {
+        "@id": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/carRent.jsonld#carRent",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://raw.githubusercontent.com/0xPrakharG/BUIDL_IRL_PolygonID/main/carRent-vocab.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "carRent": {
+            "@id": "vocab:carRent",
+            "@type": "xsd:integer"
+          }
+        }
+      }
+    }
+  ]
+}
