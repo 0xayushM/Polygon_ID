@@ -1,1 +1,1 @@
-![Claim Snapshot]
+![Claim Snapshot](https://github.com/0xayushM/Polygon_ID/blob/main/snapshot.jpeg)
